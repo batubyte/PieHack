@@ -1,3 +1,5 @@
+https://www.waveshare.com/media/catalog/product/cache/1/image/560x560/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-pico-2-w-1.jpg
+
 The **Raspberry Pi Pico** can be transformed into a "Bad USB" device. A "Bad USB" is essentially a USB device that acts like a keyboard to execute commands or scripts automatically when plugged into a computer. This is often done for ethical hacking, penetration testing, or education on security practices.
 
 However, unlike traditional USB devices (e.g., the Raspberry Pi Zero), the Pico 2W is not a true USB host. It leverages USB emulation via its firmware. Below is how you can set up your Raspberry Pi Pico to act as a "Bad USB."
