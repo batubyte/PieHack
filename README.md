@@ -5,7 +5,7 @@
 ## Hardware
 ### 1. Raspberry Pi Pico Models
 - **[Raspberry Pi Pico W](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-pico-cat/raspberry-pi-pico-w.htm?sku=23108)**: Includes Wi-Fi, great for wireless hacking projects
-- **[Raspberry Pi Pico 2W](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-pico-3/raspberry-pi-pico-2-w.htm?sku=29439)**: A newer version with more power
+- **[Raspberry Pi Pico 2W](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-pico-3/raspberry-pi-pico-2-w.htm?sku=29439)**: A newer version with bluetooth and more power
 
 ### 2. USB Cable or USB Adapter
 - **[USB Cable (A to micro USB)](https://www.raspberrypi.com/products/usb-a-male-to-micro-usb-male-cable/)**: To connect your Pico to your computer
