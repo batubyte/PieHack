@@ -27,8 +27,6 @@
 
 ## Hacking Ideas
 
-Here are some cool projects you can try with your Raspberry Pi Pico:
-
 ### 1. **USB Rubber Ducky (HID Attack)**
    - Turn the Pico into a fake keyboard that types commands automatically when plugged in.
 
