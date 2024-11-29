@@ -101,7 +101,3 @@ While experimenting and learning with PieHack, it’s crucial to always follow e
 - **Obtain permission** before attempting any hacking activity.
 - Unauthorized hacking is illegal and unethical.
 - Respect privacy and always conduct security research in a legal, responsible manner.
-
----
-
-Happy hacking! 🚀
