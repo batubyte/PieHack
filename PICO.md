@@ -6,7 +6,7 @@ However, unlike traditional USB devices (e.g., the Raspberry Pi Zero), the Pico 
 
 ### Prerequisites
 1. **Hardware:**
-   - Raspberry Pi Pico 2W
+   - [Raspberry Pi Pico 2W](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-pico-3/raspberry-pi-pico-2-w.htm)
    - Micro USB cable for power and data
 
 2. **Software:**
