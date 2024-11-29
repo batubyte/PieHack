@@ -10,7 +10,7 @@ The **Raspberry Pi Zero** is a versatile and cost-effective single-board compute
   - [MicroSD card (16GB or larger)](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/raspberry-pi-sd-card.htm?sku=29009)
   - USB OTG cable
   - Optional: Mini-HDMI to HDMI adapter (if needed for display)
-  - Optional: Power supply (5V 2.5A recommended)
+  - Optional: Power supply (5V 2.5A)
   - Optional: [Case](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/pi-zero-case-b.htm)
   - Optional: [Display](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/2.13inch-e-paper-hat-plus.htm)
   - Optional: [USB hub](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/usb-hub-hat.htm?___SID=U)
