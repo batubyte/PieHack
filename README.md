@@ -55,7 +55,11 @@
    - Use the Pico to debug other microcontrollers via JTAG for hardware hacking.
 
 ### 10. **Physical Security Hacking**
-   - Control RFID locks or test security systems using the Pico.
+
+**Hardware:**
+- **[Raspberry Pi Pico WH](https://www.raspberrypi.com/products/raspberry-pi-pico/?variant=raspberry-pi-pico-wh)**: The Pico with pre-soldered headers, great for prototyping and working with sensors or external hardware for security testing.
+- **[Raspberry Pi Pico 2 WH](https://www.raspberrypi.com/products/raspberry-pi-pico-2/?variant=pico-2-wh)**: The newer Pico 2 with pre-soldered headers for easier connectivity and more powerful hacking projects.
+- Control RFID locks or test security systems using the Pico.
 
 ---
 
