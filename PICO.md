@@ -1,4 +1,4 @@
-<img src="https://www.waveshare.com/media/catalog/product/cache/1/image/560x560/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-pico-2-w-1.jpg" width="300"/>
+<img src="https://www.waveshare.com/media/catalog/product/cache/1/image/560x560/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-pico-2-w-1.jpg" width="300" height="300"/>
 
 The **Raspberry Pi Pico** can be transformed into a "Bad USB" device. A "Bad USB" is essentially a USB device that acts like a keyboard to execute commands or scripts automatically when plugged into a computer. This is often done for ethical hacking, penetration testing, or education on security practices.
 
