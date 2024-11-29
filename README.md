@@ -1,5 +1,7 @@
 # PieHack
 
+---
+
 ## Hardware
 ### 1. Raspberry Pi Pico Models
 - **[Raspberry Pi Pico W](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-pico-cat/raspberry-pi-pico-w.htm?sku=23108)**: Includes Wi-Fi, great for wireless hacking projects
