@@ -1,6 +1,6 @@
 # PieHack
 
-![pngimg com - hacker_PNG28](https://github.com/user-attachments/assets/4ae8604f-4207-41cc-9a12-afd93a0fa898)
+![pico-2](https://github.com/user-attachments/assets/0fff2978-6128-4132-9fcb-9ae789ea2696)
 
 ---
 
