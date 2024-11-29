@@ -1,13 +1,14 @@
-The **Raspberry Pi Zero 2 WH** is a versatile and cost-effective single-board computer that can be used in various ethical hacking and cybersecurity projects. While it's a small and low-power device, its quad-core CPU makes it capable of handling many tasks related to penetration testing, network monitoring, and even automation of security tools. Here's a guide to using it ethically and responsibly for cybersecurity purposes:
+The **Raspberry Pi Zero** is a versatile and cost-effective single-board computer that can be used in various ethical hacking and cybersecurity projects. While it's a small and low-power device, its quad-core CPU makes it capable of handling many tasks related to penetration testing, network monitoring, and even automation of security tools. Here's a guide to using it ethically and responsibly for cybersecurity purposes:
 
 ---
 
-### **Getting Started with Raspberry Pi Zero 2 WH for Ethical Hacking**
+### **Getting Started with Raspberry Pi Zero for Ethical Hacking**
 
 #### **1. Preparation**
 - **Hardware Requirements**:
-  - Raspberry Pi Zero 2 WH
-  - MicroSD card (16GB or larger, preferably Class 10)
+  - [Raspberry Pi Zero](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/raspberry-pi-zero-2-w.htm?sku=21039)
+  - [MicroSD card (16GB or larger)](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/raspberry-pi-sd-card.htm?sku=29009)
+  - [Case (optional)](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/pi-zero-case-b.htm)
   - USB OTG cable for peripherals
   - Mini-HDMI to HDMI adapter (if needed for display)
   - Power supply (5V 2.5A recommended)
