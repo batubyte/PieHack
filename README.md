@@ -36,8 +36,6 @@ PieHack is a collection of hardware and software tools for experimenting with an
 
 ### 1. Set Up Your Raspberry Pi Pico
 
-To get started with your Raspberry Pi Pico, follow these steps:
-
 1. **Download the firmware** for either **MicroPython** or **CircuitPython**:
    - [MicroPython](https://micropython.org/download/rp2-pico/)
    - [CircuitPython](https://circuitpython.org/board/raspberry_pi_pico/)
