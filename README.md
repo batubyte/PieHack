@@ -1,5 +1,7 @@
 # PieHack
 
+![pngimg com - hacker_PNG28](https://github.com/user-attachments/assets/4ae8604f-4207-41cc-9a12-afd93a0fa898)
+
 ---
 
 ## Overview
