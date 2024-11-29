@@ -9,13 +9,12 @@ The **Raspberry Pi Zero** is a versatile and cost-effective single-board compute
   - [Raspberry Pi Zero](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/raspberry-pi-zero-2-w.htm?sku=21039)
   - [MicroSD card (16GB or larger)](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/raspberry-pi-sd-card.htm?sku=29009)
   - USB OTG cable
-  Optional:
-  - Mini-HDMI to HDMI adapter (if needed for display)
-  - Power supply (5V 2.5A recommended)
-  - [Case](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/pi-zero-case-b.htm)
-  - [Display](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/2.13inch-e-paper-hat-plus.htm)
-  - [USB hub](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/usb-hub-hat.htm?___SID=U)
-  - [Wi-Fi dongle](https://alfa-network.eu/awus036nha)
+  - Optional: Mini-HDMI to HDMI adapter (if needed for display)
+  - Optional: Power supply (5V 2.5A recommended)
+  - Optional: [Case](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/pi-zero-case-b.htm)
+  - Optional: [Display](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/2.13inch-e-paper-hat-plus.htm)
+  - Optional: [USB hub](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/usb-hub-hat.htm?___SID=U)
+  - Optional: [Wi-Fi dongle](https://alfa-network.eu/awus036nha)
 
 - **Software Requirements**:
   - Raspberry Pi OS Lite or Kali Linux ARM version
