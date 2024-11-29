@@ -6,7 +6,7 @@ The **Raspberry Pi Zero** is a versatile and cost-effective single-board compute
 
 #### **1. Preparation**
 - **Hardware Requirements**:
-  - [Raspberry Pi Zero](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/raspberry-pi-zero-2-w.htm?sku=21039)
+  - [Raspberry Pi Zero 2WHC](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/raspberry-pi-zero-2-w.htm?sku=21039)
   - [MicroSD card (16GB or larger)](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/raspberry-pi-sd-card.htm?sku=29009)
   - USB OTG cable
   - Optional: Mini-HDMI to HDMI adapter (if needed for display)
