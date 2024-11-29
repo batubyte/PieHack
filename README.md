@@ -2,8 +2,6 @@
 
 ![pico-2](https://github.com/user-attachments/assets/0fff2978-6128-4132-9fcb-9ae789ea2696)
 
----
-
 ## Overview
 PieHack is a collection of hardware and software tools for experimenting with and learning about hacking using Raspberry Pi Pico. The Pico, with its small form factor and various models, offers numerous possibilities for DIY hacking projects. This guide provides a hardware setup, software installation instructions, and a list of hacking ideas to explore.
 
