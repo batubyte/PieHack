@@ -96,8 +96,6 @@ PieHack is a collection of hardware and software tools for experimenting with an
 
 ## Ethical Considerations
 
-While experimenting and learning with PieHack, it’s crucial to always follow ethical guidelines:
-
 - **Obtain permission** before attempting any hacking activity.
 - Unauthorized hacking is illegal and unethical.
 - Respect privacy and always conduct security research in a legal, responsible manner.
