@@ -8,12 +8,14 @@ The **Raspberry Pi Zero** is a versatile and cost-effective single-board compute
 - **Hardware Requirements**:
   - [Raspberry Pi Zero](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/raspberry-pi-zero-2-w.htm?sku=21039)
   - [MicroSD card (16GB or larger)](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/raspberry-pi-sd-card.htm?sku=29009)
-  - [Case (optional)](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/pi-zero-case-b.htm)
-  - [Display (optional)](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/2.13inch-e-paper-hat-plus.htm)
-  - USB OTG cable for peripherals
+  - USB OTG cable
+  Optional:
   - Mini-HDMI to HDMI adapter (if needed for display)
   - Power supply (5V 2.5A recommended)
-  - Optional: USB hub, Wi-Fi dongle (if you need multiple interfaces), and case
+  - [Case](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/pi-zero-case-b.htm)
+  - [Display](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/2.13inch-e-paper-hat-plus.htm)
+  - [USB hub](https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/usb-hub-hat.htm?___SID=U)
+  - [Wi-Fi dongle](https://alfa-network.eu/awus036nha)
 
 - **Software Requirements**:
   - Raspberry Pi OS Lite or Kali Linux ARM version
